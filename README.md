@@ -9,6 +9,6 @@ Andrzej lets you easily upload files to your AWS S3 bucket through simple web in
 ### Usage
 
 1. Build app `$ swift build` 
-2. Run HTTP server `.build/debug/Andrzej`
+2. Run HTTP server `$ .build/debug/Andrzej`
 3. Visit [http://localhost:8090/](http://localhost:8090/)
  
